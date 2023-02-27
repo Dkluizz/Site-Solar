@@ -13,7 +13,7 @@
                 </div>
                 <div class="h-100 d-inline-flex align-items-center">
                     <small class="far fa-clock text-primary me-2"></small>
-                    <small>Mon - Fri : 09.00 AM - 09.00 PM</small>
+                    <small><?php $agora = date('d/m/Y H:i'); echo $agora;?></small>
                 </div>
             </div>
             <div class="col-lg-5 px-5 text-end">
