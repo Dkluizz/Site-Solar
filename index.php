@@ -340,7 +340,9 @@
                                 <div class="col-12 col-sm-6">
                                     <input type="text" class="form-control border-0" placeholder="Telefone" style="height: 55px;">
                                 </div>
-                                
+                                <div class="col-12 col-sm-6">
+                                    <input type="file" class="form-control border-0" placeholder="Telefone" style="height: 55px;">
+                                </div>
                                 <div class="col-12">
                                     <textarea class="form-control border-0" placeholder="Informações Extras"></textarea>
                                 </div>
