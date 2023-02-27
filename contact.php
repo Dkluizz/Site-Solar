@@ -16,12 +16,12 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5">
         <div class="container py-5">
-            <h1 class="display-3 text-white mb-3 animated slideInDown">Contact</h1>
+            <h1 class="display-3 text-white mb-3 animated slideInDown">Contatos</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                    <li class="breadcrumb-item text-white active" aria-current="page">Contact</li>
+                    <li class="breadcrumb-item"><a class="text-white" href="#">Inicio</a></li>
+                    <li class="breadcrumb-item"><a class="text-white" href="#">Páginas</a></li>
+                    <li class="breadcrumb-item text-white active" aria-current="page">Contato</li>
                 </ol>
             </nav>
         </div>
@@ -35,8 +35,8 @@
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-6 contact-text py-5 wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 ps-lg-0">
-                        <h6 class="text-primary">Contact Us</h6>
-                        <h1 class="mb-4">Feel Free To Contact Us</h1>
+                        <h6 class="text-primary">Contate-nos</h6>
+                        <h1 class="mb-4">Contato grátis para todo o Brasil.</h1>
                         <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
                         <form>
                             <div class="row g-3">
