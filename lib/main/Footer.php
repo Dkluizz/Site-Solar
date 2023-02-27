@@ -44,7 +44,7 @@
                         </div>
                     </div>
                 </div>
-<<<<<<< HEAD
+
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4">Newsletter</h5>
                     <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
@@ -53,8 +53,7 @@
                         <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
                     </div>
                 </div>
-=======
->>>>>>> 27f0ac1dee834309069aba384b77dc5144f3a5d5
+
             </div>
         </div>
         <div class="container">
