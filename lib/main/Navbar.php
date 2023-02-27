@@ -35,7 +35,7 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
-    <a href="index.php" class="navbar-brand d-flex align-items-center border-end px-4 px-lg-5">
+    <a href="index.php" class="navbar-brand d-flex align-items-center  px-5 px-lg-5">
       <img src="img/icone.png" alt="..."  height="100%">&nbsp&nbsp
       <h3 class="m-0 text-primary">ATENDE</h3>&nbsp<h3 class="m-0 text-warning">SOLARES</h3>
     </a>
@@ -43,8 +43,8 @@
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-            <div class="navbar-nav ms-auto p-4 p-lg-0">
+        <div class="collapse navbar-collapse " id="navbarCollapse">
+            <div class="navbar-nav ms-auto p-4 p-lg-0  " >
                 <a href="index.php" class="nav-item nav-link active">Home</a>
                 <a href="about.php" class="nav-item nav-link">About</a>
                 <a href="service.php" class="nav-item nav-link">Service</a>
@@ -60,8 +60,17 @@
                     </div>
                 </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
+                
             </div>
-            <a href="" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Get A Quote<i class="fa fa-arrow-right ms-3"></i></a>
+            
+            <div class="navbar-nav ms-auto p-4 p-lg-4">
+    <form class="d-flex">
+      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-warning" type="submit">Search</button>
+    </form>
+  </div>
+          
+
         </div>
     </nav>
     <!-- Navbar End -->
