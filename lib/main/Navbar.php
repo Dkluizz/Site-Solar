@@ -64,7 +64,7 @@
             
             <div class="navbar-nav ms-auto p-4 p-lg-4">
     <form class="d-flex">
-      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+      <input class="form-control me-2" type="search" placeholder="Ex: Placa Solar" aria-label="Search">
       <button class="btn btn-outline-warning" type="submit">Buscar</button>
     </form>
   </div>
