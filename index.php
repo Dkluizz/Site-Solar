@@ -22,8 +22,10 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h1 class="display-2 text-white animated slideInDown">Pioneiros no ramos da Energia Solar</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">********************</p>
+                                <h1 class="display-2 text-white animated slideInDown">Confiabilidade é Nossa História</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-3">A Atende Solares, é nova no mercado mas com uma equipe preparada e com 
+                                    experiência de anos, promovendo qualidade, segurança
+                                    e confiabilidade em seus projetos, saiba mais sobre alguns de nossos serviços.</p>
                                 <a href="#" class="btn btn-primary rounded-pill py-3 px-5 animated slideInLeft">Leia Mais</a>
                             </div>
                         </div>
@@ -36,8 +38,8 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h1 class="display-2 text-white animated slideInDown">Pioneiros no ramos da Energia Solar</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">********************</p>
+                                <h1 class="display-2 text-white animated slideInDown">Segurança é Nossa Marca </h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Melhores produtos e de ultima geração para que sua obra não tenha dor de cabeça.</p>
                                 <a href="#" class="btn btn-primary rounded-pill py-3 px-5 animated slideInLeft">Leia Mais</a>
                             </div>
                         </div>
@@ -50,8 +52,10 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h1 class="display-2 text-white animated slideInDown">Pioneiros no ramos da Energia Solar</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">********************</p>
+                                <h1 class="display-2 text-white animated slideInDown">Ser Inovadores é Nossa Missão</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Visamos tornar acessível o uso de energia solar, através 
+                                da tecnologia fotovoltaica, promovendo, portanto, uma fonte limpa, renovável e inesgotável 
+                                de energia. </p>
                                 <a href="#" class="btn btn-primary rounded-pill py-3 px-5 animated slideInLeft">Leia Mais</a>
                             </div>
                         </div>
@@ -76,10 +80,15 @@
                     <div class="p-lg-5 pe-lg-0">
                         <h6 class="text-primary">Sobre Nós</h6>
                         <h1 class="mb-4">Atende Solares. </h1>
-                        <p>********************</p>
-                        <p><i class="fa fa-check-circle text-primary me-3"></i>********************</p>
-                        <p><i class="fa fa-check-circle text-primary me-3"></i>********************</p>
-                        <p><i class="fa fa-check-circle text-primary me-3"></i>********************</p>
+                        <p>A atende Solares é nova no mercado de Energia Solar, mas conta com uma equipe preparada para oferecer o melhor serviço.</p>
+                        <p><i class="fa fa-check-circle text-primary me-3"></i>Nossa visão está alinhada à crescente busca de soluções ecológicas e sustentáveis
+                        e tornar acessivel a energia solar para o cliente final. </p>
+                        <p><i class="fa fa-check-circle text-primary me-3"></i>A diversidade é a chave de nosso sucesso, atuamos em projetos eletricos 
+                        residenciais e prediais,compartilhamento de postes (CEMIG), redes cabeadas e estruturadas.</p>
+                        <p><i class="fa fa-check-circle text-primary me-3"></i>A Atende Solares garante todo o funcionamento e durabilidade 
+                        dos equipamentos conforme as especificações técnicas dos fabricantes. 
+                        Segurança, confiabilidade, otimização de energia, 
+                        baixo custo e agilidade, são qualidades que definem o nosso negócio.</p>
                         <a href="#" class="btn btn-primary rounded-pill py-3 px-5 mt-3">Saiba Mais</a>
                     </div>
                 </div>
@@ -99,39 +108,54 @@
             <div class="row g-4">
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item rounded overflow-hidden">
-                        <img class="img-fluid" src="img/img-600x400-1.jpg" alt="">
+                        <img class="img-fluid" src="img/paineis.jpg" alt="">
                         <div class="position-relative p-4 pt-0">
                             <div class="service-icon">
                                 <i class="fa fa-solar-panel fa-3x"></i>
                             </div>
-                            <h4 class="mb-3">Paineis Solares</h4>
+                            <h4 class="mb-3">Energia Solar</h4>
                             <p>#################################</p>
                             <a class="small fw-medium" href="#">Saiba Mais<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
-                </div>
+                </div>                
                 
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item rounded overflow-hidden">
-                        <img class="img-fluid" src="img/img-600x400-4.jpg" alt="">
-                        <div class="position-relative p-4 pt-0">
-                            <div class="service-icon">
-                                <i class="fa fa-solar-panel fa-3x"></i>
-                            </div>
-                            <h4 class="mb-3">Paineis Solares</h4>
-                            <p>#################################</p>
-                            <a class="small fw-medium" href="#">Saiba Mais<i class="fa fa-arrow-right ms-2"></i></a>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item rounded overflow-hidden">
-                        <img class="img-fluid" src="img/img-600x400-5.jpg" alt="">
+                        <img class="img-fluid" src="img/quadro.jpg" alt="">
                         <div class="position-relative p-4 pt-0">
                             <div class="service-icon">
-                                <i class="fa fa-solar-panel fa-3x"></i>
+                                <i class="fa fa-lightbulb fa-3x"></i>
                             </div>
-                            <h4 class="mb-3">Paineis Solares</h4>
+                            <h4 class="mb-3">Projetos Eletricos</h4>
+                            <p>#################################</p>
+                            <a class="small fw-medium" href="#">Saiba Mais<i class="fa fa-arrow-right ms-2"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item rounded overflow-hidden">
+                        <img class="img-fluid" src="img/poste.jpg" alt="">
+                        <div class="position-relative p-4 pt-0">
+                            <div class="service-icon">
+                                <i class="fa fa-handshake fa-3x"></i>
+                            </div>
+                            <h4 class="mb-3">Compart. de Postes (CEMIG)</h4>
+                            <p>#################################</p>
+                            <a class="small fw-medium" href="#">Saiba Mais<i class="fa fa-arrow-right ms-2"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item rounded overflow-hidden">
+                        <img class="img-fluid" src="img/rede.jpg" alt="">
+                        <div class="position-relative p-4 pt-0">
+                            <div class="service-icon">
+                                <i class="fa fa-network-wired fa-3x"></i>
+                            </div>
+                            <h4 class="mb-3">Redes Cabeadas e Estruturadas</h4>
                             <p>#################################</p>
                             <a class="small fw-medium" href="#">Saiba Mais<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
